@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 
 About Me
+
 💼 Aspiring Data Analyst
 🌱 Currently pursuing the Google Data Analytics Certification
 🎓 Bachelor's in Hospitality Management
